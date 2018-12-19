@@ -3,9 +3,9 @@
 		// PARAMETRI DA MODIFICARE
 		//inserite vostro indirizzo su heroku 
 		//https://username.herokuapp.com/execute.php
-		$WEBHOOK_URL = '//https://borrelli-fra.herokuapp.com/execute.php';
+		$WEBHOOK_URL = 'https://borrelli-fra.herokuapp.com/execute.php';
 		//inserite il vostro token che vi ha fornito l'utente telegram @botfather
-		$BOT_TOKEN = '712008972:AAHHLYuC9f9O7VSBZO60O3C5UzNmR4n8LaA';
+		$BOT_TOKEN = '741493983:AAGnargTp0xFZyekt8nXGd0NitmMVWr94rs';
 
 		// NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
 		$API_URL = 'https://api.telegram.org/bot' . $BOT_TOKEN .'/';

@@ -3,7 +3,7 @@
 		require 'class-http-request.php';
 		require 'functions.php';
 		//modificare col vostro token del bot
-		$api="712008972:AAHHLYuC9f9O7VSBZO60O3C5UzNmR4n8LaA";	
+		$api="741493983:AAGnargTp0xFZyekt8nXGd0NitmMVWr94rs";	
 		
 		//prendo quello che mi è arrivato e lo salvo nella variabile content
 		$content = file_get_contents("php://input");
