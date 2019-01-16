@@ -50,7 +50,7 @@
 if($text=="Audio"){
 	sendAudio($chatId,"audio.mp3", false, "Il mio Audio",$api);
 }
-}
+
 if($text=="bad"){
 	sendAudio($chatId,"Bad Wolves - Zombie (Official Video).mp3", false, "Bad Wolves - Zombie (Official Video)",$api);
 }
