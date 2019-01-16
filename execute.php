@@ -52,7 +52,7 @@ if($text=="Audio"){
 }
 }
 if($text=="bad"){
-	sendAudio($chatId,"Bad Wolves - Zombie (Official Video).mp3", false, "Il mio Audio",$api);
+	sendAudio($chatId,"Bad Wolves - Zombie (Official Video).mp3", false, "Bad Wolves - Zombie (Official Video)",$api);
 }
 		
 		//aggiungo il comando di invio
